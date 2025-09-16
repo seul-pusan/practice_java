@@ -24,6 +24,7 @@ class Item2 {
 	private double price;
 	private int stockQuantity;
 
+
 	public Item2(String name, double price, int stockQuantity) {
 		this.name = name;
 		this.price = price;
